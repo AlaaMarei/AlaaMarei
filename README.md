@@ -20,6 +20,7 @@
 
 
 ## 📚 Libraries <br><br/> ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlaaMarei&layout=compact&langs_count=8&theme=algolia"/>
 
 ## Profile Views <br><br/> <img src="https://profile-counter.glitch.me/AlaaMarei/count.svg">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaMarei&layout=compact)](https://github.com/AlaaMarei/github-readme-stats)
